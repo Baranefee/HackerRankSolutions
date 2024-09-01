@@ -1,6 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using HackerRankSolutions;
 
-Console.WriteLine("Hello, World!");
+Console.WriteLine("Here is the Result!");
+Console.WriteLine("<----------------------->");
 
-new PlusMinus();
+//new PlusMinus();
+//new Encryption();
+new DiagonalDifference();
